@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I'm Kirill Gusev, a 19 y.o. IOS Developer based in Saint-Petersburg, Russia
-- 🔭 I’m currently working on Scrumdinger.
+- 🌱 I'm Kirill Gusev, a 20 y.o. IOS Developer based in Saint-Petersburg, Russia
+- 🔭 I’m currently working on study project GHFollowers.
