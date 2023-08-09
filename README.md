@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 
 - 🌱 I'm Kirill Gusev, a 20 y.o. IOS Developer based in Saint-Petersburg, Russia
 - 🔭 I’m currently working on study project GHFollowers.
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=myaumura&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myaumura&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
