@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on study project GHFollowers.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myaumura)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myaumura&hide_progress=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myaumura&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
