@@ -1,23 +1,8 @@
 ### Hi there 👋
-
-<!--
-**myaumura/myaumura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
--  I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🌱 I'm Kirill Gusev, a 20 y.o. IOS Developer based in Saint-Petersburg, Russia
-- 🔭 I’m currently working on study project GHFollowers.
-
+-   I'm Kirill Gusev, a 20 y.o. IOS Developer based in Saint-Petersburg, Russia
+-   SPbPU Cyber Security student 
+-   I’m currently working on study projects.
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myaumura)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myaumura&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
