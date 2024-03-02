@@ -1,5 +1,5 @@
 ### Hi there 👋
--   I'm Kirill Gusev, a 20 y.o. IOS Developer based in Saint-Petersburg, Russia
+-   I'm Kirill Gusev, a 21 y.o. iOS Developer based in Saint-Petersburg, Russia
 -   SPbPU Cyber Security student 
 -   I’m currently working on study projects.
   
